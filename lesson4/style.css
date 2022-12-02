@@ -1,0 +1,35 @@
+*{
+  margin:0;
+  padding:0;
+  box-sizing:border-box;
+}
+
+.heater{
+  height:50px;
+  background-color: red;
+}
+
+.main-visual{
+  height:500px;
+  width: 100%;
+  background-color: orange;
+}
+
+.main{
+  height:1400px;
+  width:960px;
+  margin: 0 auto;
+  background-color: yellowgreen;
+}
+
+.main-1{
+  height:1400px;
+  width:500px;
+  margin: 0 auto;
+  background-color:green;
+}
+
+.footer{
+  height:100px;
+  background-color: blue;
+}

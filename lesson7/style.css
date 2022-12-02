@@ -1,0 +1,44 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+header{
+  height: 400px;
+  margin:0 auto;
+  background-image: url(img/mv.jpg);
+  background-size: cover;
+  background-position: bottom;
+}
+
+.title{
+  margin:0 auto;
+  padding: 20px;
+}
+
+main{
+  margin:0 auto;
+}
+
+.menu-box{
+  width: 840px;
+  margin: 0 auto;
+  padding-top:50px;
+  padding-bottom:50px;
+}
+
+.menu-1{
+  padding-bottom: 30px;
+  border-bottom: 1px solid gray;
+}
+
+.menu-image{
+  padding-bottom: 10px;
+}
+
+.menu-2{
+  padding-top: 30px;
+  padding-bottom: 30px;
+  border-bottom: 1px solid gray;
+}
